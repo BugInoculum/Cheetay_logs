@@ -2,9 +2,9 @@ Metadata-Version: 2.1
 Name: Cheetay-logs
 Version: 1.0.6
 Summary: Add logging of models from save, delete signals
-Home-page: https://github.com/BugEncapsulation/Cheetay_logs
+Home-page: https://github.com/BugInoculum/Cheetay_logs
 Author: Ibrahim
-Author-email: muhammad,ibrahim@cheetay.pk
+Author-email: muhammad.ibrahim@cheetay.pk
 License: MIT
 Keywords: Cheetay logging
 Platform: UNKNOWN

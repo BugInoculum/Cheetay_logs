@@ -6,11 +6,11 @@ setup(
     name='Cheetay_logs',
     version='1.0.6',
     packages=['models_logging'],
-    url='https://github.com/BugEncapsulation/Cheetay_logs',
+    url='https://github.com/BugInoculum/Cheetay_logs',
     package_data = {'models_logging' : files},
     license='MIT',
     author='Ibrahim',
-    author_email='muhammad,ibrahim@cheetay.pk',
+    author_email='muhammad.ibrahim@cheetay.pk',
     description='Add logging of models from save, delete signals',
     keywords=[
         'Cheetay logging',
